@@ -1,0 +1,1 @@
+# Data and models for Kachergis, G. and Yu, C. (2017). Observing and Modeling Developing Knowledge and Uncertainty during Cross-situational Word Learning. Transactions on Cognitive and Developmental Systems.
